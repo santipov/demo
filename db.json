@@ -6,6 +6,28 @@
           3
       ]
   },
+  "order": [
+    { "id": 1, "items": [
+              {"id": 1001, "name": "Order 1001", "imageUrl": "url", "count": 2}, 
+              {"id": 1002, "name": "Order 1002", "imageUrl": "url", "count": 1}, 
+              {"id": 1003, "name": "Order 1003", "imageUrl": "url", "count": 4} 
+              ] },
+    { "id": 2,  "items": [
+              {"id": 2001, "name": "Order 2001", "imageUrl": "url", "count": 1}, 
+              {"id": 2002, "name": "Order 2002", "imageUrl": "url", "count": 2}, 
+              {"id": 2003, "name": "Order 2003", "imageUrl": "url", "count": 1} 
+              ] },
+    { "id": 3,  "items": [
+              {"id": 3001, "name": "Order 3001", "imageUrl": "url", "count": 4}, 
+              {"id": 3002, "name": "Order 3002", "imageUrl": "url", "count": 2}, 
+              {"id": 3003, "name": "Order 3003", "imageUrl": "url", "count": 2} 
+              ] }
+  ],
+  "discount": [
+    { "id": 1001, "price": 50, "discount": 0 },
+    { "id": 2002, "price": 25, "discount": 5 },
+    { "id": 3003, "price": 100, "discount": 20 }
+  ]
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
