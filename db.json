@@ -27,7 +27,7 @@
     { "id": 1001, "price": 50, "discount": 0 },
     { "id": 2002, "price": 25, "discount": 5 },
     { "id": 3003, "price": 100, "discount": 20 }
-  ]
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
