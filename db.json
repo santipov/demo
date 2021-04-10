@@ -21,6 +21,31 @@
               {"id": 3001, "name": "Pork", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/peppers.png", "count": 4}, 
               {"id": 3002, "name": "Sushi", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/pool.png", "count": 2}, 
               {"id": 3003, "name": "Apple", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", "count": 2} 
+              ] },
+    { "id": 4, "items": [
+              {"id": 4001, "name": "Cabbage", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/mountain.png", "count": 7}, 
+              {"id": 4002, "name": "Nut", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/sails.png", "count": 2}, 
+              {"id": 4003, "name": "Lemon", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/tulips.png", "count": 1} 
+              ] },
+    { "id": 5,  "items": [
+              {"id": 5001, "name": "Cherry", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/zelda.png", "count": 3}, 
+              {"id": 5002, "name": "Bread", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/frymire.png", "count": 3}, 
+              {"id": 5003, "name": "Milk", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png", "count": 1} 
+              ] },
+    { "id": 6,  "items": [
+              {"id": 6001, "name": "Condnsed Milk", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/girl.png", "count": 9}, 
+              {"id": 6002, "name": "Roll", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/goldhill.png", "count": 3}, 
+              {"id": 6003, "name": "Pie", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/lena.png", "count": 3} 
+              ] },
+    { "id": 7, "items": [
+              {"id": 7001, "name": "Ice Cream", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png", "count": 2}, 
+              {"id": 7002, "name": "Coca-Cola", "imageUrl": "https://www.gstatic.com/webp/gallery3/1.png", "count": 6}, 
+              {"id": 7003, "name": "Donut", "imageUrl": "https://www.gstatic.com/webp/gallery3/2.png", "count": 4} 
+              ] },
+    { "id": 8,  "items": [
+              {"id": 8001, "name": "Kefir", "imageUrl": "https://www.gstatic.com/webp/gallery3/3_webp_a.png", "count": 3}, 
+              {"id": 8002, "name": "Low-fat milk", "imageUrl": "https://www.gstatic.com/webp/gallery3/4_webp_a.png", "count": 2}, 
+              {"id": 8003, "name": "Cookies", "imageUrl": "https://www.gstatic.com/webp/gallery3/5_webp_a.png", "count": 1} 
               ] }
   ],
   "discount": [
