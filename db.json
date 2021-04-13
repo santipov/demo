@@ -54,22 +54,14 @@
               ] }
   ],
   "discount": [
-    { "id": 1001, "price": 50, "discount": 0 },
-    { "id": 1002, "price": 34, "discount": 3.5 },
-    { "id": 1003, "price": 73, "discount": 0 },
-    { "id": 2001, "price": 23, "discount": 5 },
-    { "id": 2002, "price": 28, "discount": 5 },
-    { "id": 2003, "price": 79, "discount": 5 },
-    { "id": 3001, "price": 6, "discount": 2 },
-    { "id": 3002, "price": 9, "discount": 1 },
-    { "id": 3003, "price": 10.5, "discount": 0 }
-  ],
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "id": 1001, "price": "$50", "discount": "$0" },
+    { "id": 1002, "price": "$34", "discount": "$3.5" },
+    { "id": 1003, "price": "$73", "discount": "$0" },
+    { "id": 2001, "price": "$23", "discount": "$5" },
+    { "id": 2002, "price": "$28", "discount": "$0" },
+    { "id": 2003, "price": "$79", "discount": "$5" },
+    { "id": 3001, "price": "$6", "discount": "$2" },
+    { "id": 3002, "price": "$9", "discount": "$1" },
+    { "id": 3003, "price": "$10.5", "discount": "$0" }
+  ]
 }
