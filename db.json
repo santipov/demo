@@ -28,7 +28,8 @@
               {"id": 3003, "name": "Apple", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", "count": 2} 
               ] },
     { "id": 4, "items": [
-              {"id": 4001, "name": "Cabbage", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/mountain.png", "count": 7}, 
+              {"id": 4001, "name": "Cabbage", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/mountain.png", "count": 7},
+              {"id": 4002, "name": "Coconut", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/goldhill.png", "count": 19},
               {"id": 4002, "name": "Nut", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/sails.png", "count": 2}, 
               {"id": 4003, "name": "Lemon", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/tulips.png", "count": 1} 
               ] },
@@ -39,7 +40,7 @@
               ] },
     { "id": 6,  "items": [
               {"id": 6001, "name": "Condnsed Milk", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/girl.png", "count": 9}, 
-              {"id": 6002, "name": "Roll", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/goldhill.png", "count": 3}, 
+              {"id": 6002, "name": "Coconut", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/goldhill.png", "count": 3}, 
               {"id": 6003, "name": "Pie", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/lena.png", "count": 3} 
               ] },
     { "id": 7, "items": [
@@ -50,7 +51,8 @@
     { "id": 8,  "items": [
               {"id": 8001, "name": "Kefir", "imageUrl": "https://www.gstatic.com/webp/gallery3/3_webp_a.png", "count": 3}, 
               {"id": 8002, "name": "Low-fat milk", "imageUrl": "https://www.gstatic.com/webp/gallery3/4_webp_a.png", "count": 2}, 
-              {"id": 8003, "name": "Cookies", "imageUrl": "https://www.gstatic.com/webp/gallery3/5_webp_a.png", "count": 1} 
+              {"id": 8003, "name": "Cookies", "imageUrl": "https://www.gstatic.com/webp/gallery3/5_webp_a.png", "count": 1},
+              {"id": 8004, "name": "Pinapple", "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png", "count": 7}
               ] }
   ],
   "discount": [
